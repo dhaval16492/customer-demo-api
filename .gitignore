@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CustomerDemo.WebAPI/FileContentIndex
+/CustomerDemo.Application/bin/Debug/net6.0
+/CustomerDemo.Application/obj
+/CustomerDemo.Common/bin/Debug/net6.0
+/CustomerDemo.Common/obj
+/CustomerDemo.Core/bin/Debug/net6.0
+/CustomerDemo.Core/obj
+/CustomerDemo.WebAPI/bin/Debug/net6.0
+/CustomerDemo.WebAPI/obj
+/.vs/CustomerDemo.WebAPI/v17
